@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Multiline_App2020 Revised 2023", "Multiline_App2020 Revised 2023\Multiline_App2020 Revised 2023.csproj", "{ABFA7405-A8DA-4522-B811-43CFB576EF9A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ABFA7405-A8DA-4522-B811-43CFB576EF9A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFA7405-A8DA-4522-B811-43CFB576EF9A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFA7405-A8DA-4522-B811-43CFB576EF9A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFA7405-A8DA-4522-B811-43CFB576EF9A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {288E8729-36B1-4398-92EF-C43CDEBDD6C8}
+	EndGlobalSection
+EndGlobal
